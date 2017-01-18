@@ -8,8 +8,9 @@ namespace SampleApp
 		{
 			InitializeComponent();
 
+			MainPage = new MainPage();
 			// MainPage = new SampleAppPage();
-			MainPage = new StackLayoutPage();
+			// MainPage = new StackLayoutPage();
 			// MainPage = new ContentPage
 			// {
 			// 	Content = new Label
