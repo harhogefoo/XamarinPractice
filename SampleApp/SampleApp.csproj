@@ -36,6 +36,9 @@
     <EmbeddedResource Include="MainPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="CallHistoryPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -53,6 +56,9 @@
     </Compile>
     <Compile Include="PhoneTranslator.cs" />
     <Compile Include="IDialer.cs" />
+    <Compile Include="CallHistoryPage.xaml.cs">
+      <DependentUpon>CallHistoryPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">

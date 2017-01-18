@@ -6,12 +6,14 @@
 - [x] パート1.XAML入門
   - https://www.xlsoft.com/jp/products/xamarin/getting_started_with_xaml.html
   - チュートリアル形式ではなかったのでSkip
-- [x] Xamarin.Forms Quickstart
+- [x] Hello, Xamarin.Forms
   - https://developer.xamarin.com/guides/xamarin-forms/getting-started/hello-xamarin-forms/quickstart/
   - Xamarin.Forms QuickStart 勉強完了
   - Xamarin.Forms Deep Dive 読了
 
-- [] https://developer.xamarin.com/guides/xamarin-forms/getting-started/hello-xamarin-forms-multiscreen/quickstart/
-  - Xamarin.Forms Mult-Screen QuickStart 勉強中
+- [x] Hello, Xamarin.Forms Multiscreen
+  - https://developer.xamarin.com/guides/xamarin-forms/getting-started/hello-xamarin-forms-multiscreen/quickstart/
+  - Xamarin.Forms Multiscreen QuickStart 勉強中
+  - Xamarin.Forms Multiscreen Deep Dive 読了
 
 
